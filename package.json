@@ -1,0 +1,19 @@
+{
+  "name": "bluloco",
+  "version": "1.0.0",
+  "description": "A fancy and sophisticated color theme",
+  "type": "theme-pack",
+  "author": "Uloco",
+  "license": "MIT",
+  "repository": "https://github.com/Nandaleio/bluloco-fresh",
+
+  "fresh": {
+    "min_version": "0.1.75",
+    "themes": [
+      { "file": "bluloco-dark.json", "name": "Bluloco Dark", "variant": "dark" },
+      { "file": "bluloco-light.json", "name": "Bluloco Light", "variant": "light" }
+    ]
+  },
+
+  "keywords": ["color-theme", "theme", "dark", "light", "colorful"]
+}
